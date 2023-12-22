@@ -1,2 +1,2 @@
 insert into Em_view
-values('S0006', '¤»¦X','D001')
+values('S0006', 'å…­åˆ','D001')
